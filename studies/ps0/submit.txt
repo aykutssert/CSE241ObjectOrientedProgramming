@@ -1,0 +1,13 @@
+windows 11 Home
+version=22H2
+OS compilation=22621.1265
+Microsoft Windows [Version 10.0.22621.1265]
+
+
+editor=visual studio code
+
+
+
+gcc version=(g++ (MinGW.org GCC-6.3.0-1) 6.3.0)
+
+
